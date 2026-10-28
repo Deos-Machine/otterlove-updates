@@ -5,7 +5,7 @@
 
 ## Встановлення
 
-1. Завантаж APK: [apk/Otterlove-0.4.0.apk](https://raw.githubusercontent.com/Deos-Machine/otterlove-updates/main/apk/Otterlove-0.4.0.apk)
+1. Завантаж APK: [apk/Otterlove-0.4.1.apk](https://raw.githubusercontent.com/Deos-Machine/otterlove-updates/main/apk/Otterlove-0.4.1.apk)
    (актуальне посилання завжди в [`latest.json`](latest.json)).
 2. Дозволь встановлення з браузера, якщо Android попросить.
 3. Відкрий Otterlove, введи імена — і запроси партнера кодом пари в налаштуваннях.

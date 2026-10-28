@@ -1,10 +1,10 @@
 {
-  "versionName": "0.4.0",
-  "apk": "https://raw.githubusercontent.com/Deos-Machine/otterlove-updates/main/apk/Otterlove-0.4.0.apk",
-  "sha256": "4485661563e837d8a8b3a363f92d4053f0401385e5f501a57010669c9220fd2c",
+  "versionName": "0.4.1",
+  "apk": "https://raw.githubusercontent.com/Deos-Machine/otterlove-updates/main/apk/Otterlove-0.4.1.apk",
+  "sha256": "e43dbf8b161e02ae347e7fd01e8f600311c6d532a8475be613d751643a0923ea",
   "notes": {
-    "uk": "Перша версія Otterlove: три мови (українська, English, русский), вхід через Google, мапа України, виправлено виліт кнопки «Сумую».",
-    "en": "First Otterlove release: three languages (Ukrainian, English, Russian), Google sign-in, Ukraine map, fixed the “Miss you” button crash.",
-    "ru": "Первая версия Otterlove: три языка (украинский, English, русский), вход через Google, карта Украины, исправлен вылет кнопки «Скучаю»."
+    "uk": "Виправлено виліт під час введення коду партнера. «Сумую», записки й настрій партнера тепер одразу приходять сповіщенням із вібрацією. Якщо застосунок впаде — з’явиться звіт, яким можна поділитися.",
+    "en": "Fixed a crash when entering your partner’s code. “Miss you”, notes and your partner’s mood now arrive instantly as a vibrating notification. If the app crashes, you’ll see a report you can share.",
+    "ru": "Исправлен вылет при вводе кода партнёра. «Скучаю», записки и настроение партнёра теперь сразу приходят уведомлением с вибрацией. Если приложение упадёт — появится отчёт, которым можно поделиться."
   }
 }
