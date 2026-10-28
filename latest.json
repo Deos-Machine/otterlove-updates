@@ -1,0 +1,10 @@
+{
+  "versionName": "0.4.0",
+  "apk": "https://raw.githubusercontent.com/Deos-Machine/otterlove-updates/main/apk/Otterlove-0.4.0.apk",
+  "sha256": "4485661563e837d8a8b3a363f92d4053f0401385e5f501a57010669c9220fd2c",
+  "notes": {
+    "uk": "Перша версія Otterlove: три мови (українська, English, русский), вхід через Google, мапа України, виправлено виліт кнопки «Сумую».",
+    "en": "First Otterlove release: three languages (Ukrainian, English, Russian), Google sign-in, Ukraine map, fixed the “Miss you” button crash.",
+    "ru": "Первая версия Otterlove: три языка (украинский, English, русский), вход через Google, карта Украины, исправлен вылет кнопки «Скучаю»."
+  }
+}
